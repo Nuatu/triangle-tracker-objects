@@ -10,5 +10,7 @@ A) if the numbers can form a triangle
 B) what type of triangle the numbers form
 
 Equilateral: all sides are equal
+
 Isosceles: exactly 2 sides are equal
+
 Scalene: no sides are equal
