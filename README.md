@@ -7,6 +7,7 @@ July 19, 2014
 Takes 3 number inputs from user and determines: 
 
 A) if the numbers can form a triangle
+
 B) what type of triangle the numbers form
 
 Equilateral: all sides are equal
